@@ -390,10 +390,9 @@ By Week 8, I'll have:
 
 ## 🔗 Follow the Journey
 
-- **Website:** [madebyram.com](https://madebyram.com)
-- **LinkedIn:** [Connect with me]
-- **Twitter:** [Follow for updates]
-- **MENA Business Analysis:** [Ideas at Desk YouTube](https://youtube.com/@ideasatdesk)
+- **Website:** https://madebyram.com
+- **LinkedIn:** [[Connect with me]](https://www.linkedin.com/in/ramnimbalkar/)
+- **Twitter:** [[Follow for updates]](https://x.com/madebyram9)
 
 ---
 
