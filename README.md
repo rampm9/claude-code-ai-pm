@@ -124,9 +124,8 @@ Legend: ⬜ Not Started | 🚧 In Progress | ✅ Complete
 ## 🔗 Follow Along
 
 - **Website:** [madebyram.com](https://madebyram.com)
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **MENA Business Channel:** [Ideas at Desk](https://youtube.com/@ideasatdesk)
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/ramnimbalkar/)]
+- **Twitter:** [[Your Twitter Handle](https://x.com/madebyram9)]
 
 ## 📂 Repository Structure
 ```
