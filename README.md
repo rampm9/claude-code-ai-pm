@@ -123,9 +123,9 @@ Legend: ⬜ Not Started | 🚧 In Progress | ✅ Complete
 
 ## 🔗 Follow Along
 
-- **Website:** [madebyram.com](https://madebyram.com)
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/ramnimbalkar/)]
-- **Twitter:** [[Your Twitter Handle](https://x.com/madebyram9)]
+- **Website:** https://madebyram.com
+- **LinkedIn:** https://www.linkedin.com/in/ramnimbalkar/
+- **Twitter:** https://x.com/madebyram9
 
 ## 📂 Repository Structure
 ```
